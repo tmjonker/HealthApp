@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2020. Timothy Jonker @ NVCC
+  ~
+  ~ Author: Timothy Jonker
+  ~ Affiliation: NVCC
+  ~
+  ~ Terms of Use:
+  ~ This application is part of the term projects of the course ITP226 of Fall 2020.  It is not to released to any third party, whether with or without the permission of the author.  Any unauthorized use of this application may be subject to prosecution.
+  -->
+
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.timothyjonker.healthapp">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_action_heart"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/ic_action_heart"
+        android:supportsRtl="true"
+        android:layout_centerHorizontal="true"
+        android:theme="@style/AppTheme">
+        android:configChanges="keyboardHidden|orientation"
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

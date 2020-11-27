@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2020. Timothy Jonker @ NVCC
+  ~
+  ~ Author: Timothy Jonker
+  ~ Affiliation: NVCC
+  ~
+  ~ Terms of Use:
+  ~ This application is part of the term projects of the course ITP226 of Fall 2020.  It is not to released to any third party, whether with or without the permission of the author.  Any unauthorized use of this application may be subject to prosecution.
+  -->
+
+<font-family xmlns:app="http://schemas.android.com/apk/res-auto"
+        app:fontProviderAuthority="com.google.android.gms.fonts"
+        app:fontProviderPackage="com.google.android.gms"
+        app:fontProviderQuery="Amiko"
+        app:fontProviderCerts="@array/com_google_android_gms_fonts_certs">
+</font-family>

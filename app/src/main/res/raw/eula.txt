@@ -1,0 +1,11 @@
+Author: Timothy Jonker
+Affiliation: NVCC
+
+Terms of use:
+This application was made as part of the
+curriculum for course ITP226 during the
+Fall 2020 term at NVCC.  It is not to be
+released to any third party, whether with
+or without permission of the author.  Any
+unauthorized use of this application may
+be subject to prosecution.

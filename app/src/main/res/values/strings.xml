@@ -1,0 +1,24 @@
+<!--
+  ~ Copyright (c) 2020. Timothy Jonker @ NVCC
+  ~
+  ~ Author: Timothy Jonker
+  ~ Affiliation: NVCC
+  ~
+  ~ Terms of Use:
+  ~ This application is part of the term projects of the course ITP226 of Fall 2020.  It is not to released to any third party, whether with or without the permission of the author.  Any unauthorized use of this application may be subject to prosecution.
+  -->
+
+<resources>
+    <string name="app_name">Tim Jonker presents... Health App</string>
+    <string name="save_button">save button</string>
+    <string-array name="bloodPressureChoices">
+        <item>Show all</item>
+        <item>Show last 5</item>
+        <item>Show last 10</item>
+        <item>Show last 30</item>
+        <item>Average</item>
+        <item>Average last 5</item>
+        <item>Average last 10</item>
+        <item>Average last 30</item>
+    </string-array>
+</resources>

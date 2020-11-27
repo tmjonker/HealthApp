@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2020. Timothy Jonker @ NVCC
+  ~
+  ~ Author: Timothy Jonker
+  ~ Affiliation: NVCC
+  ~
+  ~ Terms of Use:
+  ~ This application is part of the term projects of the course ITP226 of Fall 2020.  It is not to released to any third party, whether with or without the permission of the author.  Any unauthorized use of this application may be subject to prosecution.
+  -->
+
+<resources>
+    <color name="colorPrimary">#000</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+</resources>
